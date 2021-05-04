@@ -29,6 +29,9 @@ This app contains and runs with:
 #### `Backend`
 * []
 
+#### `Database`
+* [MongoDB](https://www.mongodb.com/cloud/atlas) document database for being free of charge and easily available for this application's purpose.
+
 ## Installation
 
 ## Instructions to run locally only with .env file which is not provided here for security reasons
