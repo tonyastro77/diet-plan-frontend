@@ -32,7 +32,7 @@ This app contains and runs with:
 * [Bcrypt](https://www.npmjs.com/package/bcrypt) used for hashing passwords
 * [Mongoose](https://mongoosejs.com/) for handling schemas and connecting to MongoDB 
 * [Mongoose Unique Validator](https://www.npmjs.com/package/mongoose-unique-validator) adds a unique validation within a Mongoose Schema
-* [JSON Web Token](https://www.npmjs.com/package/jsonwebtoken) checks for a token (linked to a user) to be allowed to use certain requests
+* [JSON Web Token](https://www.npmjs.com/package/jsonwebtoken) checks for a token (linked to a user) to be allowed to obtain certain response
 * [Cors](https://www.npmjs.com/package/cors) to handle Cross-origin resource sharing
 * [Jest](https://jestjs.io/) library for Unit Testing 
 * [Supertest](https://www.npmjs.com/package/supertest) library for Integration Testing
