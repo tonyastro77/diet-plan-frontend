@@ -4,15 +4,11 @@ You can check this webpage deployed [here:](https://fathomless-fortress-72861.he
 
 ## Application
 
-This Webpage aims to collect food nutritional values for the user and display information regarding the total calories eaten versus the suggested calories given by the user personal information such as height, weight, how active the user is and whether the user is aiming to lose, gain or maintain weight:
+This Webpage aims to collect food nutritional values from the user and display information regarding the total calories eaten versus the suggested calories given by the user personal information such as height, weight, how active the user is and whether the user is aiming to lose, gain or maintain weight. Upon starting, the webpage will requested the user to login or create a new user which then redirects to the login page after completion.
 
-### `npm start`
+### `Home Page`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+The Home Page, which is the page where the user is taken after logging in, contains a chart, user progress and current day's (today) food values added by the user, either a complete new food information by pressing ADD in the table or selected from the already existant food in the Main Database by selecting the tab  "Food Database" from the left side bar and then adding a food value from there. All this is will be visible back in the Home page.
 
 ### `npm test`
 
