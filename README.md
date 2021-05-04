@@ -13,7 +13,7 @@ The Home Page, which is the page where the user is taken after logging in, conta
 ### `Features`
 
 This app contains and runs with:
-
+#### `Frontend`
 * [ReactJS](https://reactjs.org/)
 * [Material-UI Core Components](https://material-ui.com/) 
 * [Material-UI Icons](https://material-ui.com/components/icons/)
@@ -23,7 +23,7 @@ This app contains and runs with:
 * [Moment](https://momentjs.com/) library for date handling
 * [Recharts](https://recharts.org/en-US/) library for the Chart Progress display 
 * [ESLint](https://eslint.org/) for Code Syntax
-* [Jest](https://jestjs.io/) Library for Unit Tests
+* [Jest](https://jestjs.io/) library for Unit Tests
 
 ## Installation
 
