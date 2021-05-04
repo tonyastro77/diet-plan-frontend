@@ -48,4 +48,4 @@ From the browser go to 'localhost:3001' address and you should be able to run th
 
 ### Deployment
 
-You can check this webpage deployed [here:](https://fathomless-fortress-72861.herokuapp.com)
+You can try this webpage deployed on Heroku [here:](https://fathomless-fortress-72861.herokuapp.com)
