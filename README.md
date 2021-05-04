@@ -30,6 +30,7 @@ This app contains and runs with:
 * [Express](https://expressjs.com/) web application framework used for handling APIs
 * [Dotenv](https://www.npmjs.com/package/dotenv) for handling environment variables
 * [Bcrypt](https://www.npmjs.com/package/bcrypt) used for hashing passwords
+* [Mongoose](https://mongoosejs.com/) for handling schemas and connecting to MongoDB
 
 #### `Database`
 * [MongoDB](https://www.mongodb.com/cloud/atlas) document database for being free of charge and easily available for this application's purpose.
