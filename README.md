@@ -31,6 +31,7 @@ This app contains and runs with:
 * [Dotenv](https://www.npmjs.com/package/dotenv) for handling environment variables
 * [Bcrypt](https://www.npmjs.com/package/bcrypt) used for hashing passwords
 * [Mongoose](https://mongoosejs.com/) for handling schemas and connecting to MongoDB
+* [Cors](https://www.npmjs.com/package/cors) to handle Cross-origin resource sharing
 * [Jest](https://jestjs.io/) library for Unit Testing 
 * [Supertest](https://www.npmjs.com/package/supertest) library for Integration Testing
 
