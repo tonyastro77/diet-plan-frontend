@@ -22,7 +22,7 @@ This app contains and runs with:
 * [Lodash](https://lodash.com/) library for arrays handling need for the chart
 * [Moment](https://momentjs.com/) library for date handling
 * [Recharts](https://recharts.org/en-US/) library for the Chart Progress display 
-* (ESLint)[https://eslint.org/] for Code Syntax
+* [ESLint](https://eslint.org/) for Code Syntax
 * [Jest](https://jestjs.io/) Library for Unit Tests
 
 ## Installation
