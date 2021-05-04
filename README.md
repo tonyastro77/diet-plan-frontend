@@ -27,7 +27,7 @@ This app contains and runs with:
 * [Jest](https://jestjs.io/) library for Unit Tests
 
 #### `Backend`
-* []
+* [Express](https://expressjs.com/) web application framework used for handling APIs
 
 #### `Database`
 * [MongoDB](https://www.mongodb.com/cloud/atlas) document database for being free of charge and easily available for this application's purpose.
