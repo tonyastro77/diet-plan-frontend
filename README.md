@@ -37,13 +37,13 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Installation
 
-## Instructions to run locally
+## Instructions to run locally only with .env file which is not provided here for security reasons
 
 After cloning both repositories locally with 'git clone' [Frontend](https://github.com/tonyastro77/diet-plan-frontend) and [Backend](https://github.com/tonyastro77/diet-plan-backend), don't forget to install the dependencies with 'npm install'
 
-After all the depencies have been installed in both dependencies locally, you then have to 'npm run build' in the frontend folder to then copy the 'build' folder and past it in the root folder of the backend.
+After all the depencies have been installed in both dependencies locally you have to 'npm run build' in the frontend folder to then copy the 'build' folder and paste it in the root folder of the backend.
 
-Finally, once the build folder in pasted in the backend folder, from there run 'npm run dev' to start the application locally in the port 3001.
+Finally, once the build folder is pasted in the backend folder, add the .env file with the correct environmental files pointing the mongodb_uri, port and secret. From the root folder then run 'npm run dev' to start the application locally in the port 3001.
 From the browser go to 'localhost:3001' address and you should be able to run this project locally.
 
 ### Deployment
