@@ -19,11 +19,15 @@ This app contains and runs with:
 * [Material-UI Icons](https://material-ui.com/components/icons/)
 * [Material-UI Theme Provider](https://material-ui.com/customization/theming/) for the overall color appereance of the app
 * [Axios](https://github.com/axios/axios) for handling the requests
+* [React-Router](https://reactrouter.com/) for handling navigation
 * [Lodash](https://lodash.com/) library for arrays handling need for the chart
 * [Moment](https://momentjs.com/) library for date handling
 * [Recharts](https://recharts.org/en-US/) library for the Chart Progress display 
 * [ESLint](https://eslint.org/) for Code Syntax
 * [Jest](https://jestjs.io/) library for Unit Tests
+
+#### `Backend`
+* []
 
 ## Installation
 
