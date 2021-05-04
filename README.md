@@ -10,30 +10,20 @@ This Webpage aims to collect food nutritional values from the user and display i
 
 The Home Page, which is the page where the user is taken after logging in, contains a chart, user progress and current day's (today) food values added by the user, either a complete new food information by pressing ADD in the table or selected from the already existant food in the Main Database by selecting the tab  "Food Database" from the left side bar and then adding a food value from there. All this is will be visible back in the Home page.
 
-### `npm test`
+### `Features`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This app contains and runs with:
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+* [ReactJS](https://reactjs.org/)
+* [Material-UI Core Components](https://material-ui.com/) 
+* [Material-UI Icons](https://material-ui.com/components/icons/)
+* [Material-UI Theme Provider](https://material-ui.com/customization/theming/) for the overall color appereance of the app
+* [Axios](https://github.com/axios/axios) for handling the requests
+* [Lodash](https://lodash.com/) library for arrays handling need for the chart
+* [Moment](https://momentjs.com/) library for date handling
+* [Recharts](https://recharts.org/en-US/) library for the Chart Progress display 
+* (ESLint)[https://eslint.org/] for Code Syntax
+* [Jest](https://jestjs.io/) Library for Unit Tests
 
 ## Installation
 
