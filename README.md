@@ -28,6 +28,8 @@ This app contains and runs with:
 
 #### `Backend`
 * [Express](https://expressjs.com/) web application framework used for handling APIs
+* [Dotenv](https://www.npmjs.com/package/dotenv) for handling environment variables
+* [Bcrypt](https://www.npmjs.com/package/bcrypt) used for hashing passwords
 
 #### `Database`
 * [MongoDB](https://www.mongodb.com/cloud/atlas) document database for being free of charge and easily available for this application's purpose.
