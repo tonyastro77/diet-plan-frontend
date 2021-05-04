@@ -1,10 +1,10 @@
 # Diet Plan Webpage
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can check this webpage deployed [here:](https://fathomless-fortress-72861.herokuapp.com)
 
 ## Application
 
-In the project directory, you can run:
+This Webpage aims to collect food nutritional values for the user and display information regarding the total calories eaten versus the suggested calories given by the user personal information such as height, weight, how active the user is and whether the user is aiming to lose, gain or maintain weight:
 
 ### `npm start`
 
