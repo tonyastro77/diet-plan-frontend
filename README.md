@@ -37,30 +37,15 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Installation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Instructions to run locally
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+After cloning both repositories locally with 'git clone' [Frontend](https://github.com/tonyastro77/diet-plan-frontend) and [Backend](https://github.com/tonyastro77/diet-plan-backend), don't forget to install the dependencies with 'npm install'
 
-### Code Splitting
+After all the depencies have been installed in both dependencies locally, you then have to 'npm run build' in the frontend folder to then copy the 'build' folder and past it in the root folder of the backend.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Finally, once the build folder in pasted in the backend folder, from there run 'npm run dev' to start the application locally in the port 3001.
+From the browser go to 'localhost:3001' address and you should be able to run this project locally.
 
 ### Deployment
 
 You can check this webpage deployed [here:](https://fathomless-fortress-72861.herokuapp.com)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
